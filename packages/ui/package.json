@@ -23,10 +23,10 @@
     "@tamagui/react-native-media-driver": "latest",
     "@tamagui/shorthands": "latest",
     "@tamagui/themes": "latest",
-    "@tamagui/toast": "latest",
+    "@tamagui/toast": "1.45.9",
     "@tanstack/react-virtual": "^3.0.0-alpha.0",
     "jotai": "^2.1.1",
-    "tamagui": "latest"
+    "tamagui": "1.45.9"
   },
   "devDependencies": {
     "@tamagui/build": "latest"
